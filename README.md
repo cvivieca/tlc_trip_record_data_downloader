@@ -20,7 +20,7 @@ To use this script, simply download or clone the repository and run the `downloa
 pip install -r requirements.txt
 ```
 ```
-python download_nyc_taxi_data.py
+python download_nyc_yellow_taxi_data.py
 ```
 
 The script will download all parquet files for the specified year range and save each year's files in a separate subdirectory while displaying a progress bar for each download.
