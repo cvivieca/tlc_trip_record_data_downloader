@@ -1,5 +1,5 @@
 
-# NYC Taxi Data Download Script
+# NYC Yellow Taxi Data Download Script
 
 This script is designed to download NYC taxi trip data in the parquet format from the NYC Taxi & Limousine Commission website. The data covers yellow taxi trips in New York City from January 2009 to December 2022.
 
